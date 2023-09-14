@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["http://kma-api-project-f528f5982a4a.herokuapp.com/api/dataitem"],
+      "method": ["GET","POST","PUT","DELETE"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+]
